@@ -1,5 +1,5 @@
 # KnowRickAndMorty
-A simple project to get to know Rick and Morty show character, the project consumes a graphql api
+A simple project to get to know Rick and Morty show characters, the project consumes a graphql api
 ## Installation
 To install this project in your machine you'll have to clone it first, run "npm install" in the terminal to install all the dependencies, then download expo-cli app in your mobile and in the project's terminal run "npm run android' or "npm run ios" if you're using mac, after it just track the QRcode shown in the terminal, you can also run this project in a simulator, you can proceed this way by installing android android studio and set the enviroment or if you're using mac you can run this project in an ios emulator provided by Xcode.
 
