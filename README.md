@@ -12,3 +12,10 @@ To install this project in your machine you'll have to clone it first, run "npm 
   react-native-screens: ~3.15.0
   react-native-vector-icons: ^9.2.0
   @react-native-community/netinfo: 9.3.0
+  
+  ## Preview 
+  
+
+
+https://user-images.githubusercontent.com/93908962/198406995-b3504a86-c730-47d4-9b22-a885fc268c98.mov
+
